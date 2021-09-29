@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adithya
+- 👋 Hi, I’m @adithyaguttha
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Full Stack Web Development St
 - 💞️ I’m looking to collaborate on linkedin
