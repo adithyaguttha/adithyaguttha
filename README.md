@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @adithyaguttha
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Full Stack Web Development St
-- 💞️ I’m looking to collaborate on linkedin
-- 📫 How to reach me adithyaguttha@gmail.com
+🚀 Adithya | Full-Stack Developer | AI Enthusiast
+👨‍💻 Passionate about building scalable web apps, AI tools, and automation.
+💡 Solving real-world problems through MERN stack, Next.js, Python & AI.
 
-<!---
-adithyacodera/adithyacoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Currently working on:
+
+AI-Powered Mock Interview Platform (Next.js + AI Agents)
+
+
+DSA & System Design for high-paying tech jobs
+
+📌 Tech Stack: JavaScript | TypeScript | React.js | Next.js | Node.js | Python | AI APIs | Firebase | PostgreSQL | MongoDB
+
+📫 Let's connect:
+
+🔗 LinkedIn :- https://www.linkedin.com/in/adithya328/
+📫 Mail : adithyaguttha@gmail.com
+
+🚀 Building, learning & hustling every day. Let’s innovate!
